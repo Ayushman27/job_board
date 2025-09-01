@@ -21,7 +21,7 @@ const Footer: React.FC = () => {
             </p>
             <div className="flex space-x-4">
               <a
-                href="https://github.com/ajay-dhangar"
+                href="https://github.com/Ayushman27"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-gray-400 hover:text-white transition-colors"
@@ -29,19 +29,19 @@ const Footer: React.FC = () => {
                 <Github className="w-5 h-5" />
               </a>
               <a
-                href="#"
+                href="https://x.com"
                 className="text-gray-400 hover:text-white transition-colors"
               >
                 <Twitter className="w-5 h-5" />
               </a>
               <a
-                href="#"
+                href="https://www.linkedin.com/in/ayushman-patro-a92203258/"
                 className="text-gray-400 hover:text-white transition-colors"
               >
                 <Linkedin className="w-5 h-5" />
               </a>
               <a
-                href="mailto:contact@jobboard.com"
+                href="ayushmanpatro2003@gmail.com"
                 className="text-gray-400 hover:text-white transition-colors"
               >
                 <Mail className="w-5 h-5" />
@@ -77,12 +77,12 @@ const Footer: React.FC = () => {
             <p className="text-gray-400 text-sm">
               © 2024 JobBoard. All rights reserved. Developed by{' '}
               <a
-                href="https://github.com/ajay-dhangar"
+                href="https://github.com/Ayushman27"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-purple-400 hover:text-purple-300 transition-colors"
               >
-                Ajay Dhangar
+                Ayushman patro
               </a>
             </p>
             <div className="flex space-x-6 mt-4 md:mt-0">
